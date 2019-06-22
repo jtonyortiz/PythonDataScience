@@ -1,4 +1,4 @@
-<h1>PythonDataScience</h1>
+<h1>Python for Data Science</h1>
 
 An archive of Data Science and analytics projects as well as important programming concepts in Python 3. 
 
