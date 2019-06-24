@@ -16,3 +16,13 @@ Concepts discussed and mastered in the 1st Certification: <b>Python Fundamentals
   <li>Project: Profitable App Profiles for the App Store and Google Play Markets</li>
   
 </ul>
+
+Concepts discussed and mastered in the 2nd Certification: <b>Python Intermediate</b>
+
+<ul>
+   <li>Cleaning and Preparing Data in Python</li>
+   <li>Python Data Analytics Basics</li>
+   <li>Object-Oriented Python</li>
+   <li>Working with Dates and Times in Python</li>
+   <li>Project: Exploring Hacker News Posts</li>
+  </ul>
