@@ -13,7 +13,7 @@ Concepts discussed and mastered in the 1st Certification: <b>Python Fundamentals
   <li>Dictionaries and Frequency Tables</li>
   <li>Functions: Fundamentals</li>
   <li>Functions: Intermediate</li>
-  <li>Project: Profitable App Profiles for the App Store and Google Play Markets</li>
+  <li>Project: <u>Profitable App Profiles for the App Store and Google Play Markets</u></li>
   
 </ul>
 
@@ -24,5 +24,5 @@ Concepts discussed and mastered in the 2nd Certification: <b>Python Intermediate
    <li>Python Data Analytics Basics</li>
    <li>Object-Oriented Python</li>
    <li>Working with Dates and Times in Python</li>
-   <li>Project: Exploring Hacker News Posts</li>
+  <li>Project: <u>Exploring Hacker News Posts</u></li>
   </ul>
