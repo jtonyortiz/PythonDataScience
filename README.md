@@ -26,3 +26,16 @@ Concepts discussed and mastered in the 2nd Certification: <b>Python Intermediate
    <li>Working with Dates and Times in Python</li>
   <li>Project: <u>Exploring Hacker News Posts</u></li>
   </ul>
+
+Concepts discussed and mastered in the 3rd Certification: <b>Pandas and NumPy Fundamentals</b>
+  
+  
+<ul>
+   <li>Introduction to NumPy</li>
+   <li>Boolean Indexing with NumPy</li>
+   <li>Introduction to Pandas</li>
+   <li>Exploring data with Pandas: Fundamentals</li>
+  <li>Exploring data with Pandas: Intermediate</li>
+  <li>Data Cleaning Basics</li>
+  <li>Guided Project: Exploring Ebay Car Sales Data</li>
+  </ul>
