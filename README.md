@@ -37,5 +37,5 @@ Concepts discussed and mastered in the 3rd Certification: <b>Pandas and NumPy Fu
    <li>Exploring data with Pandas: Fundamentals</li>
   <li>Exploring data with Pandas: Intermediate</li>
   <li>Data Cleaning Basics</li>
-  <li>Guided Project: Exploring Ebay Car Sales Data</li>
+  <li>Project: Exploring Ebay Car Sales Data</li>
   </ul>
