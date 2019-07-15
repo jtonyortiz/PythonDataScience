@@ -14,10 +14,10 @@ Concepts discussed and mastered in the 1st Certification: <b>Python Fundamentals
 - Functions: Intermediate
 - Project: [Profitable App Profiles for the App Store and Google Play Markets]
   
+[Profitable App Profiles for the App Store and Google Play Markets]: https://github.com/James1515/PythonDataScience/blob/master/PythonFundamentals/Project%231/Guided%20Project_%20Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/Basics.ipynb
 
 
 Concepts discussed and mastered in the 2nd Certification: <b>Python Intermediate</b>
-
 
 - Cleaning and Preparing Data in Python
 - Python Data Analytics Basics
@@ -26,8 +26,11 @@ Concepts discussed and mastered in the 2nd Certification: <b>Python Intermediate
 - Project: [Exploring Hacker News Posts]
 
 
+[Exploring Hacker News Posts]: https://github.com/James1515/PythonDataScience/blob/master/PythonIntermediate/Project%20%232/Basics.ipynb
+
 Concepts discussed and mastered in the 3rd Certification: <b>Pandas and NumPy Fundamentals</b>
-  
+
+
 - Introduction to NumPy
 - Boolean Indexing with NumPy
 - Introduction to Pandas
@@ -35,3 +38,6 @@ Concepts discussed and mastered in the 3rd Certification: <b>Pandas and NumPy Fu
 - Exploring data with Pandas: Intermediate
 - Data Cleaning Basics
 - Project: [Exploring Ebay Car Sales Data]
+
+[Exploring Ebay Car Sales Data]: https://github.com/James1515/PythonDataScience/blob/master/PandasAndNumPyFundamentals/Exploring%2BEbay%2BCar%2BSales-Copy1.ipynb
+
