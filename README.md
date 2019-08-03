@@ -50,3 +50,13 @@ Concepts discussed and mastered in the 4th Certification: <b>Exploratory Data Vi
 - Project: [Visualizing Earnings based on College Majors]
 
  [Visualizing Earnings based on College Majors]: https://github.com/James1515/PythonDataScience/blob/master/ExploratoryDataVisualization/Project%20%234/Basics.ipynb
+ 
+ Concepts discussed and mastered in the 5th Certification: <b>Storytelling Through Data Visualization</b>
+ 
+ - Improving Plot Aesthetics
+ - Color, Layout and Annotations
+ - Project: Visualizing the Gender Gap in College Graduates
+ - Conditional Plots
+ - Visualizing Geographic Data
+ 
+ 
