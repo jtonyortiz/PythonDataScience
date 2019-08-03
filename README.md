@@ -41,4 +41,10 @@ Concepts discussed and mastered in the 3rd Certification: <b>Pandas and NumPy Fu
 
 [Exploring Ebay Car Sales Data]: https://github.com/James1515/PythonDataScience/blob/master/PandasAndNumPyFundamentals/Exploring%2BEbay%2BCar%2BSales-Copy1.ipynb
 
-Concepts discussed and mastered in the 4th Certification: <b> Data Visualization</b>
+Concepts discussed and mastered in the 4th Certification: <b>Exploratory Data Visualization</b>
+
+- Line Charts 
+- Multiple Plots
+- Bar Plots and Scatter Plots
+- Histograms and Box Plots
+- Guided Project: Visualizing Earnings based on College Majors
