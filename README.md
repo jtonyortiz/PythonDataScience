@@ -47,4 +47,6 @@ Concepts discussed and mastered in the 4th Certification: <b>Exploratory Data Vi
 - Multiple Plots
 - Bar Plots and Scatter Plots
 - Histograms and Box Plots
-- Guided Project: Visualizing Earnings based on College Majors
+- Project: [Visualizing Earnings based on College Majors]
+
+ [Visualizing Earnings based on College Majors]: https://github.com/James1515/PythonDataScience/blob/master/ExploratoryDataVisualization/Project%20%234/Basics.ipynb
